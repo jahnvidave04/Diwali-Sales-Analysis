@@ -31,7 +31,7 @@ Using Matplotlib and Seaborn Library we projected some graphs which help us unde
 8) Product and Amount:
 ![image](https://github.com/jahnvidave04/Diwali-Sales-Analysis/assets/126203211/5b981106-eb47-4dd6-afbf-8efbf1c9be69)
 
-#Analysis:
+# Analysis:
 We can see Females have outnumber Males. From graphs we can say that Married Womens, of the age group of 26-35 with jobs in IT Sector, Healthcare, Aviation, living in Uttar Pradesh, Maharashtra, Karnataka, are more likely to puchased stuff in food, clothing and apparel and electronics and gadgets during Diwali Period.
 
 
